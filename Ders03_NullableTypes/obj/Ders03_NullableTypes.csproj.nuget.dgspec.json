@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kerem\\Desktop\\Her türlü çöp\\kod\\CSharp-Dersleri\\Ders02_NullableTypes\\Ders02_NullableTypes.csproj": {}
+    "C:\\Users\\kerem\\Desktop\\Her türlü çöp\\kod\\CSharp-Dersleri\\Ders03_NullableTypes\\Ders03_NullableTypes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kerem\\Desktop\\Her türlü çöp\\kod\\CSharp-Dersleri\\Ders02_NullableTypes\\Ders02_NullableTypes.csproj": {
+    "C:\\Users\\kerem\\Desktop\\Her türlü çöp\\kod\\CSharp-Dersleri\\Ders03_NullableTypes\\Ders03_NullableTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kerem\\Desktop\\Her türlü çöp\\kod\\CSharp-Dersleri\\Ders02_NullableTypes\\Ders02_NullableTypes.csproj",
-        "projectName": "Ders02_NullableTypes",
-        "projectPath": "C:\\Users\\kerem\\Desktop\\Her türlü çöp\\kod\\CSharp-Dersleri\\Ders02_NullableTypes\\Ders02_NullableTypes.csproj",
+        "projectUniqueName": "C:\\Users\\kerem\\Desktop\\Her türlü çöp\\kod\\CSharp-Dersleri\\Ders03_NullableTypes\\Ders03_NullableTypes.csproj",
+        "projectName": "Ders03_NullableTypes",
+        "projectPath": "C:\\Users\\kerem\\Desktop\\Her türlü çöp\\kod\\CSharp-Dersleri\\Ders03_NullableTypes\\Ders03_NullableTypes.csproj",
         "packagesPath": "C:\\Users\\kerem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kerem\\Desktop\\Her türlü çöp\\kod\\CSharp-Dersleri\\Ders02_NullableTypes\\obj\\",
+        "outputPath": "C:\\Users\\kerem\\Desktop\\Her türlü çöp\\kod\\CSharp-Dersleri\\Ders03_NullableTypes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
