@@ -12,7 +12,7 @@
 
 ### 📂 İçerik Yapısı / Repository Structure
 
-Depodaki her ders, kendi klasörü içerisinde `.cs` kaynak kodu ve açıklayıcı yorum satırları (ders notları) ile birlikte yer almaktadır.
+Depodaki her ders, kendi klasörü içerisinde `.cs` kaynak kodu ve açıklayıcı yorum satırları (ders notları) ile birlikte yer almaktadır. Dosyaları indirip üzerinde değişiklikler yapabilir veya çalıştırabilirsiniz
 
 Each lesson in the repository is located inside its own folder, complete with `.cs` source code and explanatory comment lines (course notes).
 
