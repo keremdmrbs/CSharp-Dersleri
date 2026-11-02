@@ -1,0 +1,17 @@
+C:\Users\kerem\Desktop\Her türlü çöp\kod\CSharp-Dersleri\String\bin\Debug\net11.0\Ders04_String.exe
+C:\Users\kerem\Desktop\Her türlü çöp\kod\CSharp-Dersleri\String\bin\Debug\net11.0\Ders04_String.deps.json
+C:\Users\kerem\Desktop\Her türlü çöp\kod\CSharp-Dersleri\String\bin\Debug\net11.0\Ders04_String.runtimeconfig.json
+C:\Users\kerem\Desktop\Her türlü çöp\kod\CSharp-Dersleri\String\bin\Debug\net11.0\Ders04_String.runtimeconfig.dev.json
+C:\Users\kerem\Desktop\Her türlü çöp\kod\CSharp-Dersleri\String\bin\Debug\net11.0\Ders04_String.dll
+C:\Users\kerem\Desktop\Her türlü çöp\kod\CSharp-Dersleri\String\bin\Debug\net11.0\Ders04_String.pdb
+C:\Users\kerem\Desktop\Her türlü çöp\kod\CSharp-Dersleri\String\obj\Debug\net11.0\Ders04_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerem\Desktop\Her türlü çöp\kod\CSharp-Dersleri\String\obj\Debug\net11.0\Ders04_String.AssemblyInfoInputs.cache
+C:\Users\kerem\Desktop\Her türlü çöp\kod\CSharp-Dersleri\String\obj\Debug\net11.0\Ders04_String.AssemblyInfo.cs
+C:\Users\kerem\Desktop\Her türlü çöp\kod\CSharp-Dersleri\String\obj\Debug\net11.0\Ders04_String.csproj.CoreCompileInputs.cache
+C:\Users\kerem\Desktop\Her türlü çöp\kod\CSharp-Dersleri\String\obj\Debug\net11.0\Ders04_String.sourcelink.json
+C:\Users\kerem\Desktop\Her türlü çöp\kod\CSharp-Dersleri\String\obj\Debug\net11.0\Ders04_String.dll
+C:\Users\kerem\Desktop\Her türlü çöp\kod\CSharp-Dersleri\String\obj\Debug\net11.0\refint\Ders04_String.dll
+C:\Users\kerem\Desktop\Her türlü çöp\kod\CSharp-Dersleri\String\obj\Debug\net11.0\Ders04_String.pdb
+C:\Users\kerem\Desktop\Her türlü çöp\kod\CSharp-Dersleri\String\obj\Debug\net11.0\Ders04_String.genruntimeconfig.cache
+C:\Users\kerem\Desktop\Her türlü çöp\kod\CSharp-Dersleri\String\obj\Debug\net11.0\ref\Ders04_String.dll
+C:\Users\kerem\Desktop\Her türlü çöp\kod\CSharp-Dersleri\String\obj\Debug\net11.0\Ders04_S.61D291C6.Up2Date

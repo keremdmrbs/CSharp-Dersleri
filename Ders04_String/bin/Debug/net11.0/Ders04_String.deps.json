@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v11.0": {
-      "String/1.0.0": {
+      "Ders04_String/1.0.0": {
         "runtime": {
-          "String.dll": {}
+          "Ders04_String.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "String/1.0.0": {
+    "Ders04_String/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
