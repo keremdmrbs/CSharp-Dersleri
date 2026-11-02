@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ders01_VeriTipleri")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87fc3c355dc8ff92f3befcdf737821568ac4e41d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ders01_VeriTipleri")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ders01_VeriTipleri")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

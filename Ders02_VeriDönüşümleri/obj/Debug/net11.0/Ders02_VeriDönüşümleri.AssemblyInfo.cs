@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ders02_VeriDönüşümleri")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69463d38efea71262c06df594e6a013865ad92ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87fc3c355dc8ff92f3befcdf737821568ac4e41d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ders02_VeriDönüşümleri")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ders02_VeriDönüşümleri")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
